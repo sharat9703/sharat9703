@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Sharat(@sharat9703), And an aspiring Full Stack Deveoper. 
+- 👋 Hi, I’m  Sharat(@sharat9703), And an aspiring Full Stack Developer. 
 - - 👀 I’m interested in Web development, Data Science (Analytics and Machine Learning)
 - - 🌱 I’m currently learning Web Development and Data Strucures and Algorithms
 - 💞️ I'll update my profie when i will look to collab with others, but as of now, I wish to sail solo.
