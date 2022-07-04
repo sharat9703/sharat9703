@@ -8,7 +8,7 @@
 I'm an aspiring
 Full Stack Developer
 The crossover between design and programming has always been of interest to me,besides, having worked on some data analytics projects in Python and R.
-Very excited to be part of new projects in the field of full stack development. I'm currently focusing on my data structures as well. Always fiddled in C,Java and Python.
+Very excited to be part of new projects in the field of full stack development. I'm currently focusing on my data structures as well. Always faddled in C,Java and Python.
 Currently exploring what JavaScript has in store. 
 
 
