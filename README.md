@@ -5,9 +5,11 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Sharat-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sharat-yellow)](https://stackoverflow.com/users/18186931/sharat/)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+I'm an aspiring
+Full Stack Developer
+The crossover between design and programming has always been of interest to me,besides, having worked on some data analytics projects in Python and R.
+Very excited to be part of new projects in the field of full stack development. I'm currently focusing on my data structures as well. Always fiddled in C,Java and Python.
+Currently exploring what JavaScript has in store. 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/sharat9703/count.svg)
