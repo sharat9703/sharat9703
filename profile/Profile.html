@@ -5,7 +5,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <title>My Profile</title>
         <style> /* internal css https://cdn.wallpapersafari.com/40/84/pAO4Fn.jpg ..... https://wallpaperaccess.com/full/1092587.jpg*/
-              body      {
+              body{
                 background-image: url("https://cdn.wallpapersafari.com/40/84/pAO4Fn.jpg");
                 background-color: black;
                 color: whitesmoke;
@@ -18,6 +18,27 @@
               div.foot  {
                     font-size: small;
                   }
+                  nav{
+                    display: flex;
+                    position: sticky;
+                    align-items: center;
+                    justify-content: space-between;
+                    height: 70px;
+                    top: 0;
+                    min-width:none;
+                  }
+                  .profile,.Name,.Contact{
+                    margin: 0 30px ;
+                    align-items: center;
+                    
+                  }
+                  .Name{
+                    padding-left: 90px;
+                  }
+                  .profile{
+                    font-size: 28px;
+                  }
+                  
                   
          </style>
        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
@@ -26,30 +47,40 @@
       
       <div class = "header"> 
        <header>
-          <center><b style="margin: left 2cm;">Profile</b>
-            <b style="margin-left: 14cm;color: whitesmoke;">Sharat Yaragatti</b>
-               <span style="text-align: end;font-size: medium;margin-left: 11cm;"> 
-                  Contact  :
-                <a href="https://github.com/sharat9703/" target="_blank" title="GitHub"><em class="devicon-github-original"  style ="font-size: 1rem;"></em></a>
-                <a href ="https://twitter.com/MrSharath_"  target="_blank" title="Twitter"><em class="devicon-twitter-original colored" style="font-size: 1rem;"></em></a>
-                <a href = "https://www.linkedin.com/in/sharat-yaragatti-04023a111/"  target="_blank" title="LinkedIn"><em class="devicon-linkedin-plain colored" style ="font-size: 1rem;"></em></a>               
-                <a href ="https://stackoverflow.com/users/18186931/sharat/" target="_blank"  ><img src="Image and Logo/stack-overflow.svg"  alt="stackoverflow" title="stackoverflow" style="height: 22px;width :22px; "></a>
-               </span>
-          </center>
-          <hr>
-      </header>
+        <nav>
+          <div class="profile"><strong >Profile</strong></div>
+          
+            
+           <div class="Name"> 
+            <strong id="sharat" style="color: whitesmoke;padding-bottom: 1em;font-size: 28px;">Sharat Yaragatti</strong>
+           </div>
+           <div class="Contact">  
+            Contact:
+            <a href="https://github.com/sharat9703/" target="_blank" title="GitHub"><em class="devicon-github-original colored"  style ="font-size: 1.1rem;"></em></a>  
+            <a href ="https://twitter.com/MrSharath_"  target="_blank" title="Twitter"><em class="devicon-twitter-original colored" style="font-size: 1.1rem;"></em></a>
+            <a href = "https://www.linkedin.com/in/sharat-yaragatti-04023a111/"  target="_blank" title="LinkedIn"><em class="devicon-linkedin-plain colored" style ="font-size: 1.1rem;"></em></a>               
+            <a href ="https://stackoverflow.com/users/18186931/sharat/" target="_blank"  ><img src="Image and Logo/stack-overflow.svg"  alt="StackOverflow" title="StackOverflow" style="height: 22px;width :22px; "></a>
+           
+           </div>
+           
+               
+          </ul>
+        
+      </nav>
       
-      </div> 
+      </header>
+    </div> 
        
        <div>
         <center>
-          <img src = "Image and Logo/MyPhoto.jpg" alt = "my photo" title="Sharat's photo" style="height : 350px;background-color: yellow;border-radius: 5cm;border: black;">
+          <img src = "Image and Logo/MyPhoto.jpg" alt = "my photo" title="Sharat's photo" style="height : 350px;border-radius: 5cm;border: black;margin-top: 20px;">
         </center>
        </div>
       <div class="About"> 
         <center style="border: 1px;border: radius 5px ;">
-          <p style="padding: 10px ;color: whitesmoke ;margin-left: 10cm;margin-right: 10cm;font-family: Arial, Helvetica, sans-serif;" >
-          <b>Hello!</b>, I'm <b>Sharat</b>, an aspiring <i>Full Stack developer</i>. 
+          <h2>Hello!</h2>
+          <p style="padding: 10px ;color: whitesmoke ;margin-left: 22%;margin-right: 22%;font-family: Arial, Helvetica, sans-serif;font-size: 20px;" >
+           I'm <strong>Sharat</strong>, an aspiring <i>Full Stack developer</i>. 
           I hail from a town called Sankeshwar in Belagavi district of Karnataka, 
           and I harbour my interests at <u>Web Development</u> and <u>Data Science</u>.
           I have previously worked in Python and R where I tinkered with Data Analytics a bit. 
@@ -57,6 +88,7 @@
           So, I am excited to be a part of good projects in this field. 
           You can definitely check out the Skill-set mentioned below 
           </p>
+        
         </center>
       </div>
       <hr>
@@ -84,14 +116,16 @@
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15320.83993249609!2d74.49155399999998!3d16.261004999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1656315267422!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="MyLocations"></iframe>
 
       </div>
-      <hr>
-      <footer>
+      
+      <footer style="background-color:darkslateblue;">
         <div class = "foot">
-        <center style="font-size: 80%;"> Sharat's Profile &copy; 2022  &male;&hearts;&female;</center>    
+        <center><span style="font-size: 80%;">  &copy; 2022 Sharat  &male;&hearts;&female; All rights reserved </span></center>
+        <center style="margin-top: 8px;">  
+        </center>
              
                 
         </div>
       </footer>
     </body>
-</html>
+  </html>
 
