@@ -17,7 +17,7 @@ Currently exploring what JavaScript has in store.
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sharat9703&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=sharat9703&column=7&theme=onedark"/>
   </a>
 </div>
 
