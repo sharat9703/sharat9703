@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sharat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharat-yaragatti-04023a111/)](https://www.linkedin.com/in/sharat-yaragatti-04023a111/)
 
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sharat-yellow)](https://stackoverflow.com/users/18186931/sharat/)
-A backend JavaScript Developer, who loves building new things and solve problems. 
+A JavaScript Developer, who loves building new things and solving problems. 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/sharat9703/count.svg)
