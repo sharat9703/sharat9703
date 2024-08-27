@@ -4,12 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sharat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharat-yaragatti-04023a111/)](https://www.linkedin.com/in/sharat-yaragatti-04023a111/)
 
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sharat-yellow)](https://stackoverflow.com/users/18186931/sharat/)
-
-I'm an aspiring
-Full Stack Developer
-The crossover between design and programming has always been of interest to me,besides, having worked on some data analytics projects in Python and R.
-Very excited to be part of new projects in the field of full stack web development. I'm currently focusing on my data structures as well. Always twiddled in C,Java and Python.
-Currently exploring what JavaScript has in store. 
+A backend JavaScript Developer, who loves building new things and solve problems. 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/sharat9703/count.svg)
